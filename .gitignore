@@ -1,0 +1,10 @@
+Expo/node_modules/
+ReactNative/node_modules
+node_modules
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
